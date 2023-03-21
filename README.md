@@ -7,6 +7,6 @@ Tijdens deze training worden zaken mbt Git uitgelegd
 * leer ***markdown*** te gebruiken, inclusief _cursief_ etc
 We gaan dit in een aantal stappen uitvoere
 # eerst dit
-
+![Tux, the Linux mascot](/assets/images/tux.png)
 # dan dat
 # en tenslotte ...
