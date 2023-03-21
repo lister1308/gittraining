@@ -5,3 +5,7 @@ Tijdens deze training worden zaken mbt Git uitgelegd
 * maak account aan
 * doen van alles
 * leer ***markdown*** te gebruiken, inclusief _cursief_ etc
+We gaan dit in een aantal stappen uitvoere
+# eerst dit
+# dan dat
+# en tenslotte ...
