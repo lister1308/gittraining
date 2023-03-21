@@ -7,8 +7,6 @@ Tijdens deze training worden zaken mbt Git uitgelegd
 * leer ***markdown*** te gebruiken, inclusief _cursief_ etc
 We gaan dit in een aantal stappen uitvoere
 # eerst dit
-Als je code wilt laten zien
-    code1 regel
-    code2 regel
+
 # dan dat
 # en tenslotte ...
